@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1694983305 source:c:\users\lsfar\documents\programas em c\recursividade\main.c
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\lsfar\Documents\Programas em C\Recursividade\potencia.h"
+
+1694983609 c:\users\lsfar\documents\programas em c\recursividade\potencia.h
+
