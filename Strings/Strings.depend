@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694982437 source:c:\users\lsfar\documents\programas em c\strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
