@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1694529282 source:c:\users\lsfar\documents\programas em c\exercícios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	"C:\Users\lsfar\Documents\Programas em C\Exercícios\media.h"
+	"C:\Users\lsfar\Documents\Programas em C\Exercícios\idade.h"
+	"C:\Users\lsfar\Documents\Programas em C\Exercícios\dolar.h"
+	"C:\Users\lsfar\Documents\Programas em C\Exercícios\salario.h"
+	"C:\Users\lsfar\Documents\Programas em C\Exercícios\losango.h"
+	"C:\Users\lsfar\Documents\Programas em C\Exercícios\fahrenheit.h"
+	"C:\Users\lsfar\Documents\Programas em C\Exercícios\quantSalarios.h"
+	"C:\Users\lsfar\Documents\Programas em C\Exercícios\peso.h"
+	"C:\Users\lsfar\Documents\Programas em C\Exercícios\hipotenusa.h"
+	"C:\Users\lsfar\Documents\Programas em C\Exercícios\esfera.h"
+	"C:\Users\lsfar\Documents\Programas em C\Exercícios\tabuada.h"
+
+1693278002 c:\users\lsfar\documents\programas em c\exercícios\media.h
+
+1693280196 c:\users\lsfar\documents\programas em c\exercícios\idade.h
+
+1693871252 c:\users\lsfar\documents\programas em c\exercícios\dolar.h
+
+1693278002 c:\users\lsfar\documents\programas em c\exercícios\headers\media.h
+
+1693280196 c:\users\lsfar\documents\programas em c\exercícios\headers\idade.h
+
+1693869978 c:\users\lsfar\documents\programas em c\exercícios\headers\dolar.h
+
+1693872105 c:\users\lsfar\documents\programas em c\exercícios\salario.h
+
+1694475825 c:\users\lsfar\documents\programas em c\exercícios\losango.h
+
+1694476307 c:\users\lsfar\documents\programas em c\exercícios\fahrenheit.h
+
+1694479490 c:\users\lsfar\documents\programas em c\exercícios\quantsalarios.h
+
+1694514863 c:\users\lsfar\documents\programas em c\exercícios\peso.h
+
+1694515469 c:\users\lsfar\documents\programas em c\exercícios\hipotenusa.h
+
+1694517827 c:\users\lsfar\documents\programas em c\exercícios\esfera.h
+
+1694529437 c:\users\lsfar\documents\programas em c\exercícios\tabuada.h
+
