@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1694965105 source:c:\users\lsfar\documents\programas em c\alocacaomemoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"C:\Users\lsfar\Documents\Programas em C\AlocacaoMemoria\funcaoMalloc.h"
+	"C:\Users\lsfar\Documents\Programas em C\AlocacaoMemoria\usarCalloc.h"
+	"C:\Users\lsfar\Documents\Programas em C\AlocacaoMemoria\usarRealloc.h"
+
+1694908266 c:\users\lsfar\documents\programas em c\alocacaomemoria\funcaomalloc.h
+
+1694961767 c:\users\lsfar\documents\programas em c\alocacaomemoria\usarcalloc.h
+	<stdio.h>
+	<stdlib.h>
+
+1694964904 c:\users\lsfar\documents\programas em c\alocacaomemoria\usarrealloc.h
+
