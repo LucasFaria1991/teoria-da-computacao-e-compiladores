@@ -4,7 +4,7 @@ int somaNumerosNaturais(int numero){
     }else if (numero == 1){
         return 1;
     }else{
-    return numero + +somaNumerosNaturais(numero -1);
+        return numero + somaNumerosNaturais(numero -1);
     }
 
 }
